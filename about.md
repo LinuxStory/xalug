@@ -15,10 +15,13 @@ layout: page
 	<li>各种技术交流</li>
 </ul>
 
-<h2>加入我们</h2>
+## 加入我们
 
 <ul>
 	<li><a href="https://xalug.org/">XALUG 网站</a></li>
 	<li><a href="https://t.me/xalug">电报群</a></li>
-	<li>微信群因其封闭性，无法直接添加，请已经在群中的朋友邀请进入。（或者搜索：opensourceleslie 注明：xalug，邀请加入微信群）</li>
 </ul>
+
+## 微信群
+
+微信群因其封闭性，无法直接添加，请已经在群中的朋友邀请进入。（或者搜索：opensourceleslie 注明：深圳lug，邀请加入微信群）
