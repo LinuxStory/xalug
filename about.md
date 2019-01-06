@@ -20,5 +20,5 @@ layout: page
 <ul>
 	<li><a href="https://xalug.org/">XALUG 网站</a></li>
 	<li><a href="https://t.me/xalug">电报群</a></li>
-	<li>微信群请添加</li>
+	<li>微信群因其封闭性，无法直接添加，请已经在群中的朋友邀请进入。（或者搜索：opensourceleslie 注明：xalug，邀请加入微信群）</li>
 </ul>
