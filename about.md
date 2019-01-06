@@ -24,4 +24,5 @@ layout: page
 
 ## 微信群
 
-微信群因其封闭性，无法直接添加，请已经在群中的朋友邀请进入。（或者搜索：opensourceleslie 注明：深圳lug，邀请加入微信群）
+微信群因其封闭性，无法直接添加，请已经在群中的朋友邀请进入。（或者搜索：opensourceleslie 注明：xalug，邀请加入微信群）
+![opensourceleslie](https://fuchsia-china.com/wp-content/uploads/2018/11/wechat-qrcode-opensourceleslie-300x300.jpg)
