@@ -4,7 +4,9 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>西安 Linux 用户组（英文 Xi'an GNU/Linux 用户组，简称 XALUG） 是西安本地的 Linux 用户组，旨在促进开源软件的交流和沟通。</p>
+<p>西安 Linux 用户组（英文 Xi'an GNU/Linux 用户组，简称 XALUG） 是西安本地的 Linux 用户组，旨在促进开源软件的交流和沟通。XALUG 是一个完全的非盈利社区，你的加入和参与不需要任何人的同意。
+
+我们讨论的话题主要围绕着 Linux、Operating System、Kernel、和 Open Source，当然也可以是关于 Linux 以及开源的招聘和分享等相关信息。</p>
 
 <h2>讨论话题</h2>
 
