@@ -54,9 +54,8 @@ medium: medium
 email: hi@linuxstory.org
 
 authors:
-    johndoe:
-    
-    		name: XALUG
+    johndoe:   
+        name: XALUG
         bio: Xi'an GNU/Linux User Group
         external-image: false
         picture: assets/images/profile.jpg
