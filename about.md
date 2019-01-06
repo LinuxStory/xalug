@@ -4,12 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>西安 Linux 用户组（英文 Xi'an GNU/Linux 用户组，简称 XALUG） 是西安本地的 Linux 用户组，旨在促进开源软件的交流和沟通。</p>
 
 <h2>讨论话题</h2>
 
@@ -23,7 +18,7 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 <h2>加入我们</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="https://xalug.org/">XALUG 网站</a></li>
+	<li><a href="https://t.me/xalug">电报群</a></li>
+	<li>微信群请添加</li>
 </ul>
