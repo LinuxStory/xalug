@@ -12,7 +12,7 @@ picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
+resume: false
 resume-external: true
 resume-url: https://xalug.org
 
@@ -51,7 +51,7 @@ github: LinuxStory/xalug.org
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: hi@linuxstory.org
+# email: hi@linuxstory.org
 
 authors:
     johndoe:   
@@ -96,7 +96,7 @@ related: true
 post-advance-links: [blog]
 
 # show author block at the end of a post ?
-show-author: true
+show-author: false
 
 # do you want some animations?
 animation: true
@@ -109,6 +109,6 @@ plugins:
   - jekyll-admin
 
 jekyll-mentions:
-    base_url: https://github.com
+    base_url: https://github.com/linuxstory
 
 theme: jekyll-theme-cayman
